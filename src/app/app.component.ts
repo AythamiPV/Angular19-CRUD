@@ -1,12 +1,17 @@
+// src/app/app.component.ts
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { DataListComponent } from './data-list/data-list.component';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
-  templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  standalone: true,
+  imports: [DataListComponent], // Importa tu componente aquí
+  template: `
+    <h1>CRUD con Angular 19 y Firebase</h1>
+    <app-data-list></app-data-list>
+  `,
+  styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'untitled2';
+  title = 'crud-firebase-angular19';
 }

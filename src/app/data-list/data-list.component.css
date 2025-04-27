@@ -1,0 +1,84 @@
+h2 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+li span {
+  flex-grow: 1;
+}
+
+li button {
+  background-color: #f44336; /* Rojo */
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-left: 8px;
+}
+
+li button:first-child {
+  background-color: #008CBA; /* Azul */
+}
+
+h3 {
+  color: #555;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+input[type=text] {
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4CAF50; /* Verde */
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-right: 5px;
+}
+
+.edit-section button:first-child {
+  background-color: #008CBA; /* Azul para Guardar */
+}
+
+.edit-section button:last-child {
+  background-color: #f44336; /* Rojo para Cancelar */
+}
+
+.edit-section {
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
