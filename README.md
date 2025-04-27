@@ -103,7 +103,3 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 ## 🧑‍💻 Autor
 
 [AythamiPV](https://github.com/AythamiPV)
-
----
-
-¡Espero que este README sea atractivo y explique bien tu proyecto! Puedes personalizarlo aún más añadiendo capturas de pantalla, diagramas o cualquier otra información que consideres relevante. ¡Mucha suerte con tu proyecto!
