@@ -3,8 +3,6 @@
 [![Angular v19](https://img.shields.io/badge/Angular-19.x-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![Firebase](https://img.shields.io/badge/Firebase-Google_Cloud-FFCA28?style=flat-square&logo=firebase)](https://firebase.google.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/AythamiPV/Angular19-CRUD?style=social)](https://github.com/AythamiPV/Angular19-CRUD/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/AythamiPV/Angular19-CRUD?style=social)](https://github.com/AythamiPV/Angular19-CRUD/network/members)
 
 ## 🚀 Descripción del Proyecto
 
