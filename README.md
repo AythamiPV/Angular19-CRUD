@@ -101,23 +101,6 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
     Esto construirá la aplicación y la abrirá automáticamente en tu navegador (normalmente en `http://localhost:4200/`).
 
-## 📝 Próximas Mejoras (¡Contribuciones Bienvenidas!)
-
-Este proyecto es una base y se puede seguir mejorando. Algunas ideas para futuras implementaciones podrían ser:
-
-* Validación de formularios al añadir y editar frutas.
-* Implementación de una funcionalidad de búsqueda o filtrado.
-* Mejoras en la interfaz de usuario y la experiencia del usuario.
-* Adición de pruebas unitarias y de integración.
-* Implementación de autenticación de usuarios.
-* Gestión de errores más robusta.
-
-¡Siéntete libre de contribuir con tus ideas y pull requests!
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE). Consulta el archivo `LICENSE` para obtener más detalles.
-
 ## 🧑‍💻 Autor
 
 [AythamiPV](https://github.com/AythamiPV)
